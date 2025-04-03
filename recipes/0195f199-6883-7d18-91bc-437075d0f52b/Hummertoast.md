@@ -15,11 +15,11 @@
 - Löjrom 25 g
 - Dill
 # Instruktioner
-1. Dagen före festen: Dela och plocka köttet från humrarna (Så delar du en hummer). Skär köttet i grova bitar, behåll klorna hela. Skär ev pilgrimsmusslorna i mindre bitar. Ställ kallt.
+1. Dagen före festen: Dela och plocka köttet från humrarna. Skär köttet i grova bitar, behåll klorna hela. Skär ev pilgrimsmusslorna i mindre bitar. Ställ kallt.
 2. Skala och finhacka löken. Blanda den med vinäger och vin i en kastrull. Koka tills 1/3 av vätskan återstår.
 3. Tillsätt grädden och låt koka ihop i ca 2 minuter. Skär smöret i små tärningar. Vispa i omgångar ner smöret medan såsen småkokar. Salta och peppra. Ta av från värmen. Ställ kallt.
 4. Nyårsafton/festtillfället: Sätt ugnen på 225°C.
-5. Skär av 1/3 av smördegen (frys in resten). Picka degen med en gaffel. Grädda i ugnen enligt förpackningens anvisning. Ta ut och låt svalna. Skär smördegen i 6 fyrkanter (för 6 port).
+5. Skär av 1/3 av smördegen (frys in resten). Picka degen med en gaffel. Grädda i ugnen enligt förpackningens anvisning. Ta ut och låt svalna. Skär smördegen i 4 fyrkanter (för 4 port).
 6. Värm smörsåsen (Obs! Får inte koka). Lägg hummer och pilgrimsmusslor i såsen och värm försiktigt i ett par minuter.
 7. Spola hastigt av sockerärterna i hett vatten. Skär dem i mindre bitar och fräs snabbt i olivolja. Salta och peppra.
 8. Lägg smördegsrutorna på tallrikar. Lägg på sockerärterna och skalddjuren. Skeda över sås. Garnera med löjrom och dillkvistar.

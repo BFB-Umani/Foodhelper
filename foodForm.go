@@ -22,12 +22,12 @@ func fetchOptionsForCarb(carb string) ([]string, []string) {
 	values := []string{"", "stew", "pastaSauce", "soup", "salad", "dry", "gratin", "sandwich"}
 
 	if carb == "pasta" {
-		return options[1:], values[1:]
+		return append([]string{"Inget"}, options[2:]...), append([]string{"Inget"}, values[2:]...)
 	} else if carb == "" {
 		return options, values
 	}
-	options = slices.Delete(options, 1, 2)
-	values = slices.Delete(values, 1, 2)
+	options = slices.Delete(options, 2, 3)
+	values = slices.Delete(values, 2, 3)
 
 	return options, values
 }
